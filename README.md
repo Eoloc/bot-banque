@@ -1,4 +1,4 @@
 # bot-banque
-Discord bot to manage your money
+Discord bot to manage your discord money
 
-npm install package.json
+npm install package.json to install node_modules
