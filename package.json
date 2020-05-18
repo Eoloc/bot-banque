@@ -14,7 +14,7 @@
     "ffmpeg": "0.0.4",
     "opus": "0.0.0",
     "opusscript": "0.0.3",
-    "package.json": "^2.0.1"
+    "package.json": "^2.0.1",
     "wakeonlan": "^0.1.0"
   }
 }
